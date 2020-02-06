@@ -1,0 +1,1 @@
+WHERE requested_delivery_dt >= dateadd(day,-5,getdate())
